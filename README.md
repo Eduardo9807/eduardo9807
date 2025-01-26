@@ -9,7 +9,7 @@
 
 - 👯 Actualmente colaboro en el capítulo estudiantil de mi universidad **CEUAMI**
 
-- 🤝 Busco ayuda **Hablar en público**
+
 
 <h3 align="left"> Conéctate conmigo:</h3>
 <p align="left">
