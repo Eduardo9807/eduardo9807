@@ -14,7 +14,7 @@
 <h3 align="left"> Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://instagram.com/pinaeduar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="pinaeduar" height="30" width="40" /></a>
-<a href="https://www.youtube.com /c/piñacomp." target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piñacomp." height="30" width="40" /></a>
+<a href="[https://www.youtube.com /c/piñacomp.](https://youtube.com/@pinacomp?si=WpKi1YtOlLWBovlb)](https://youtube.com/@pinacomp?si=WpKi1YtOlLWBovlb)" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piñacomp." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
