@@ -31,6 +31,6 @@
 </span>
 <h3 align="left"> Conéctate conmigo:</h3>
 <a target="_blank" href="https://www.linkedin.com/in/eduardo-piña-gonzalez-313457207/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="https://www.youtube.com/@pinacomp><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
+<a href="https://www.youtube.com/@pinacomp"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
 <a target="_blank" href="mailto:eduar9807@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
